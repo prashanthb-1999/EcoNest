@@ -1,6 +1,7 @@
 # EcoNest
-An online platform for eco-friendly and sustainable plants, transforming your space into a green sanctuary.
+An online platform for eco-friendly and sustainable plants, transforming your space into a green sanctuary. <br/><br/>
 Link: https://prashanthb-1999.github.io/EcoNest/ 
+<br/>
 
 ![image](https://github.com/prashanthb-1999/EcoNest/assets/159658312/19990afa-cee1-426d-98c9-c3d927358ed9)
 
