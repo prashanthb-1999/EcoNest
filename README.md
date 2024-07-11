@@ -1,4 +1,4 @@
-# EcoNest
+# EcoNest - Plant Nursery
 An online platform for eco-friendly and sustainable plants, transforming your space into a green sanctuary. <br/><br/>
 Link: https://prashanthb-1999.github.io/EcoNest/ 
 <br/>
